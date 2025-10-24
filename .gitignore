@@ -1,0 +1,11 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# Entornos
+.env
+venv/
+.virtualenv/
