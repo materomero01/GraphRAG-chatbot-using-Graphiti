@@ -14,7 +14,6 @@ Para ejecutar el proyecto necesitas tener instalado:
 
 Se recomienda encarecidamente usar un entorno virtual para aislar las dependencias:
 
-```bash
 # Crear entorno virtual (si no existe)
 python -m venv venv
 
